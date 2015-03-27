@@ -1,1 +1,8 @@
-<xml xmlns="http://www.w3.org/1999/xhtml"></xml>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="comment_comment" id="2" x="281" y="107">
+    <field name="TEXT"></field>
+  </block>
+  <block type="sensor_button" id="57" x="721" y="239">
+    <field name="OBJECT">UP</field>
+  </block>
+</xml>
